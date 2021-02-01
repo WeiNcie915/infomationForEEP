@@ -1,0 +1,16 @@
+http://localhost:8091/main.html   本地
+http://localhost:8088/xxl-job-admin/  定时任务
+https://www.wolai.com/mvot4bkAKvunvsYZ49XtSw
+
+
+
+/data/applogs/xxl-job/jobhandler
+/Insigma/yw
+
+
+
+-------------------
+http://172.45.8.55:8091/main.html   义乌大屏测试地址
+
+业绩点计算  工资/500*12/250 =每一天的业绩点  乘以  当月的工作日  和eep 中的业绩点进项计算
+

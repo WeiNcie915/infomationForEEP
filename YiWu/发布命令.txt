@@ -1,0 +1,7 @@
+(1):端口  ：8081
+
+(2):netstat -tunlp | grep  8081
+
+(3):kill -9 - 进程id
+
+(4):nohup java -jar -Xms1024m -Xmx2048m xxl-job-executor-sample-springboot-2.2.0.jar  &tail -f nohup.out  -n20
